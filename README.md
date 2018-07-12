@@ -4,8 +4,6 @@
 
 Ideas about a new simple language
 
-This language should not be a dialect or further development to Toki Pona. This language should not compete with Toki Pona. 
-
 It is possible to develop a language that is simpler than Esperanto and Toki Pona and yet can serve for simple communication?
 
 To develop this language, it should be done from the beginning and synchronously with one (or more) parser. This can be done in prolog and/or another programming language. Only sentences that pass the parser test are correct sentences.
@@ -14,6 +12,10 @@ We use different ways to build this language. In the first phase we can adopt wo
 
 ## Aims
 
+* This language serves for simple communication without claiming to be a world auxiliary language.
+* It is not the aim of this language to describe complex contexts.
+* Daily phrases should be possible, such as weather, time, menu, directions, hotel, taxi,...
+* This language should not be a dialect or further development to Toki Pona. This language should not compete with Toki Pona. 
 * remove inconsistencies from Toki Pona (such as "no _li_ after _mi_ and _sina_"). As a result, the grammar has to be simpler than Toki Pona. 
 * Easy analysis and generation by computer.
 
