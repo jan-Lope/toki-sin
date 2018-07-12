@@ -45,3 +45,7 @@ We use different ways to build this language. In the first phase we can adopt wo
 * Clear identification of numbers.
 * The use of punctuation marks and other special characters should be clearly defined.
 
+## Strategy
+* Create gramars rules and program the parser(s).
+* Create a wortlist with only one (proxy) word for each word type (noun, preposition, trans verb, intr. verb, ...) 
+
