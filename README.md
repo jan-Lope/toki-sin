@@ -20,10 +20,18 @@ We use different ways to build this language. In the first phase we can adopt wo
 ## Problems with Toki Pona
 
 * Inconsistencies
-* Mistakes in book
+* Mistakes and inaccuracies in book
 * Unnecessary exceptions (no _li_ after _mi_)
 * No distinction between quantities and sizes (lili).
+* Word types are often not clearly recognizable. This applies in particular to prepositions.
+* "Innovations" usually contradict the rules.
+* The use of typesetting and other special characters is often incorrect.
 * ...
+
+## Problems with Esperanto
+* Many special characters, pronunciation not easy
+* International words are difficult to integrate, as there are rigid rules for word endings.
+* With compound words, the original words are not always easy to recognize.
 
 ## Changes/Properties of toki-sin
 
@@ -31,3 +39,7 @@ We use different ways to build this language. In the first phase we can adopt wo
 * Equivalent of predicate _to be_. Proposal: _sama_ -- _waso li sama lili_ meaning “the bird is small”?
 * The number of words should be limited to less than 500. More like even less. There should be very good reasons to add new words.
 * Morphology: Toki Pona does without, Esperanto has very regular morphology. Should be able to do without.
+* Prepositions should be clearly visible.
+* Clear identification of numbers.
+* The use of punctuation marks and other special characters should be clearly defined.
+
