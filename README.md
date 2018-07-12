@@ -3,7 +3,11 @@
 ## Rationale
 
 Ideas about a new simple language
+
+This language should not be a dialect or further development to Toki Pona. This language should not compete with Toki Pona. 
+
 It is possible to develop a language that is simpler than Esperanto and Toki Pona and yet can serve for simple communication?
+
 To develop this language, it should be done from the beginning and synchronously with one (or more) parser. This can be done in prolog and/or another programming language. Only sentences that pass the parser test are correct sentences.
 We could (at the same time) also go the other way: have a semantic representation and parse/generate between that and the language. Eg Conceptual Dependency theory.
 We use different ways to build this language. In the first phase we can adopt words and some grammar from Toki Pona. We should compile what are the advantages and disadvantages of Toki Pona (or Esperanto).
@@ -18,6 +22,7 @@ We use different ways to build this language. In the first phase we can adopt wo
 * Inconsistencies
 * Mistakes in book
 * Unnecessary exceptions (no _li_ after _mi_)
+* No distinction between quantities and sizes (lili).
 * ...
 
 ## Changes/Properties of toki-sin
